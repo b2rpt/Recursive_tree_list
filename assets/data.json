@@ -1,0 +1,1774 @@
+{
+  "geoData": [
+    {
+      "parentId": "L0135",
+      "id": "L0359",
+      "name": "Abu Dhabi"
+    },
+    {
+      "parentId": "L0359",
+      "id": "L0360",
+      "name": "Abu Dhabi Global Market"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0312",
+      "name": "ACT"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0057",
+      "name": "Afghanistan"
+    },
+    {
+      "parentId": "L0001",
+      "id": "L0002",
+      "name": "Africa"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0258",
+      "name": "Alabama"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0259",
+      "name": "Alaska"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0140",
+      "name": "Albania"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0226",
+      "name": "Alberta"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0003",
+      "name": "AlLria"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0068",
+      "name": "Andaman & Nicobar Islands"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0069",
+      "name": "Andhra Pradesh"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0141",
+      "name": "Andorra"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0004",
+      "name": "Angola"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0219",
+      "name": "Anguilla"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0220",
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0336",
+      "name": "ArLntina"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0260",
+      "name": "Arizona"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0261",
+      "name": "Arkansas"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0058",
+      "name": "Armenia"
+    },
+    {
+      "parentId": "L0184",
+      "id": "L0185",
+      "name": "Aruba"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0070",
+      "name": "Arunachal Pradesh"
+    },
+    {
+      "parentId": "L0001",
+      "id": "L0056",
+      "name": "Asia"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0071",
+      "name": "Assam"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0311",
+      "name": "Australia"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0146",
+      "name": "Austria"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0142",
+      "name": "Azerbaijan"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0157",
+      "name": "Baden-Württemberg"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0221",
+      "name": "Bahamas"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0059",
+      "name": "Bahrain"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0060",
+      "name": "Bangladesh"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0222",
+      "name": "Barbados"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0158",
+      "name": "Bavaria"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0143",
+      "name": "Belarus"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0147",
+      "name": "Belgium"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0223",
+      "name": "Belize"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0005",
+      "name": "Benin"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0159",
+      "name": "Berlin"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0354",
+      "name": "Bermuda"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0061",
+      "name": "Bhutan"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0072",
+      "name": "Bihar"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0337",
+      "name": "Bolivia"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0144",
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0006",
+      "name": "Botswana"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0160",
+      "name": "Brandenburg"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0338",
+      "name": "Brazil"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0161",
+      "name": "Bremen"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0227",
+      "name": "British Columbia"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0062",
+      "name": "Brunei"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0148",
+      "name": "Bulgaria"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0007",
+      "name": "Burkina Faso"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0008",
+      "name": "Burundi"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0009",
+      "name": "Cabo Verde"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0262",
+      "name": "California"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0063",
+      "name": "Cambodia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0010",
+      "name": "Cameroon"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0225",
+      "name": "Canada"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0236",
+      "name": "Cayman Islands"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0011",
+      "name": "Central African Republic"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0012",
+      "name": "Chad"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0073",
+      "name": "Chandigarh"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0074",
+      "name": "Chhattisgarh"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0339",
+      "name": "Chile"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0064",
+      "name": "China"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0340",
+      "name": "Colombia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0263",
+      "name": "Colorado"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0013",
+      "name": "Comoros"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0264",
+      "name": "Connecticut"
+    },
+    {
+      "parentId": "L0325",
+      "id": "L0326",
+      "name": "Cook Islands"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0237",
+      "name": "Costa Rica"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0149",
+      "name": "Croatia"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0238",
+      "name": "Cuba"
+    },
+    {
+      "parentId": "L0184",
+      "id": "L0352",
+      "name": "Curacao"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0150",
+      "name": "Cyprus"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0351",
+      "name": "Czech Republic"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0075",
+      "name": "Dadra and Nagar Haveli and Daman And Dui"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0265",
+      "name": "Delaware"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0076",
+      "name": "Delhi"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0014",
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0152",
+      "name": "Denmark"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0266",
+      "name": "District of Columbia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0015",
+      "name": "Djibouti"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0355",
+      "name": "Dominica"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0240",
+      "name": "Dominican Republic"
+    },
+    {
+      "parentId": "L0135",
+      "id": "L0361",
+      "name": "Dubai"
+    },
+    {
+      "parentId": "L0361",
+      "id": "L0362",
+      "name": "Dubai Healthcare City"
+    },
+    {
+      "parentId": "L0361",
+      "id": "L0363",
+      "name": "Dubai International Financial Centre"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0341",
+      "name": "Ecuador"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0016",
+      "name": "Egypt"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0241",
+      "name": "El Salvador"
+    },
+    {
+      "parentId": "L0212",
+      "id": "L0213",
+      "name": "England"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0017",
+      "name": "Equatorial Guinea"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0018",
+      "name": "Eritrea"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0153",
+      "name": "Estonia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0350",
+      "name": "Eswatini/ Swaziland"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0020",
+      "name": "Ethiopia"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0145",
+      "name": "EU/EEA"
+    },
+    {
+      "parentId": "L0001",
+      "id": "L0139",
+      "name": "Europe"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0342",
+      "name": "Falkland Islands"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0320",
+      "name": "Fiji"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0154",
+      "name": "Finland"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0267",
+      "name": "Florida"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0155",
+      "name": "France"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0021",
+      "name": "Gabon"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0022",
+      "name": "Gambia"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0195",
+      "name": "Lorgia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0268",
+      "name": "Lorgia"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0156",
+      "name": "Lrmany"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0023",
+      "name": "Ghana"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0353",
+      "name": "Gibraltar"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0077",
+      "name": "Goa"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0174",
+      "name": "Greece"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0242",
+      "name": "Grenada"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0243",
+      "name": "Guatemala"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0197",
+      "name": "Guernsey"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0024",
+      "name": "Guinea"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0078",
+      "name": "Gujarat"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0343",
+      "name": "Guyana"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0244",
+      "name": "Haiti"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0162",
+      "name": "Hamburg"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0079",
+      "name": "Haryana"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0269",
+      "name": "Hawaii"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0163",
+      "name": "Hesse"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0080",
+      "name": "Himanchal Pradesh"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0245",
+      "name": "Honduras"
+    },
+    {
+      "parentId": "L0064",
+      "id": "L0065",
+      "name": "Hong Kong SAR"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0175",
+      "name": "Hungary"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0176",
+      "name": "Iceland"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0270",
+      "name": "Idaho"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0271",
+      "name": "Illinois"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0067",
+      "name": "India"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0272",
+      "name": "Indiana"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0104",
+      "name": "Indonesia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0273",
+      "name": "Iowa"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0105",
+      "name": "Iran"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0106",
+      "name": "Iraq"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0177",
+      "name": "Ireland"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0198",
+      "name": "Isle of Man"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0107",
+      "name": "Israel"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0178",
+      "name": "Italy"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0025",
+      "name": "Ivory Coast"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0246",
+      "name": "Jamaica"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0081",
+      "name": "Jammu and Kashmir"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0108",
+      "name": "Japan"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0199",
+      "name": "Jersey"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0082",
+      "name": "Jharkhand"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0109",
+      "name": "Jordan"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0274",
+      "name": "Kansas"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0083",
+      "name": "Karnataka"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0200",
+      "name": "Kazakhstan"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0275",
+      "name": "Kentucky"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0026",
+      "name": "Kenya"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0084",
+      "name": "Kerala"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0321",
+      "name": "Kiribati"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0201",
+      "name": "Kosovo"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0110",
+      "name": "Kuwait"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0111",
+      "name": "Kyrgyzstan"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0085",
+      "name": "Ladakh"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0086",
+      "name": "Lakshadweep"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0112",
+      "name": "Laos"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0179",
+      "name": "Latvia"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0113",
+      "name": "Lebanon"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0027",
+      "name": "Lesotho"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0028",
+      "name": "Liberia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0029",
+      "name": "Libya"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0180",
+      "name": "Liechtenstein"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0181",
+      "name": "Lithuania"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0276",
+      "name": "Louisiana"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0164",
+      "name": "Lower Saxony"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0182",
+      "name": "Luxembourg"
+    },
+    {
+      "parentId": "L0064",
+      "id": "L0066",
+      "name": "Macao SAR"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0030",
+      "name": "Madagascar"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0087",
+      "name": "Madhya Pradesh"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0088",
+      "name": "Maharashtra"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0277",
+      "name": "Maine"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0031",
+      "name": "Malawi"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0114",
+      "name": "Malaysia"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0115",
+      "name": "Maldives"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0032",
+      "name": "Mali"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0183",
+      "name": "Malta"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0089",
+      "name": "Manipur"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0228",
+      "name": "Manitoba"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0322",
+      "name": "Marshall Islands"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0278",
+      "name": "Maryland"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0279",
+      "name": "Massachusetts"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0033",
+      "name": "Mauritania"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0034",
+      "name": "Mauritius"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0165",
+      "name": "Mechlenburg-Vorpommern"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0090",
+      "name": "Meghalaya"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0247",
+      "name": "Mexico"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0280",
+      "name": "Michigan"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0323",
+      "name": "Micronesia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0281",
+      "name": "Minnesota"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0282",
+      "name": "Mississippi"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0283",
+      "name": "Missouri"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0091",
+      "name": "Mizoram"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0202",
+      "name": "Moldova"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0203",
+      "name": "Monaco"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0116",
+      "name": "Mongolia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0284",
+      "name": "Montana"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0204",
+      "name": "Montenegro"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0248",
+      "name": "Montserrat"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0035",
+      "name": "Morocco"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0036",
+      "name": "Mozambique"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0117",
+      "name": "Myanmar"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0092",
+      "name": "Nagaland"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0037",
+      "name": "Namibia"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0324",
+      "name": "Nauru"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0285",
+      "name": "Nebraska"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0118",
+      "name": "Nepal"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0184",
+      "name": "Netherlands"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0286",
+      "name": "Nevada"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0229",
+      "name": "New Brunswick"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0287",
+      "name": "New Hampshire"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0288",
+      "name": "New Jersey"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0289",
+      "name": "New Mexico"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0313",
+      "name": "New South Wales"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0290",
+      "name": "New York"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0325",
+      "name": "New Zealand"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0230",
+      "name": "Newfoundland and Labrador"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0249",
+      "name": "Nicaragua"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0038",
+      "name": "NiLr"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0039",
+      "name": "NiLria"
+    },
+    {
+      "parentId": "L0001",
+      "id": "L0218",
+      "name": "North America"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0291",
+      "name": "North Carolina"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0292",
+      "name": "North Dakota"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0119",
+      "name": "North Korea"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0205",
+      "name": "North Macedonia"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0166",
+      "name": "North Rhine-Westphalia"
+    },
+    {
+      "parentId": "L0212",
+      "id": "L0214",
+      "name": "Northern Ireland"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0314",
+      "name": "Northern Territory"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0187",
+      "name": "Norway"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0231",
+      "name": "Nova Scotia"
+    },
+    {
+      "parentId": "L0001",
+      "id": "L0310",
+      "name": "Oceania"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0093",
+      "name": "Odisha"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0293",
+      "name": "Ohio"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0294",
+      "name": "Oklahoma"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0167",
+      "name": "Oldenburg"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0120",
+      "name": "Oman"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0232",
+      "name": "Ontario"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0295",
+      "name": "Oregon"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0121",
+      "name": "Pakistan"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0327",
+      "name": "Palau"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0122",
+      "name": "Palestine"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0250",
+      "name": "Panama"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0328",
+      "name": "Papua New Guinea"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0344",
+      "name": "Paraguay"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0296",
+      "name": "Pennsylvania"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0345",
+      "name": "Peru"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0123",
+      "name": "Philippines"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0329",
+      "name": "Pitcairn Islands"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0188",
+      "name": "Poland"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0189",
+      "name": "Portugal"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0233",
+      "name": "Prince Edward Island"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0094",
+      "name": "Puducherry"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0251",
+      "name": "Puerto Rico"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0095",
+      "name": "Punjab"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0124",
+      "name": "Qatar"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0234",
+      "name": "Quebec"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0315",
+      "name": "Queensland"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0096",
+      "name": "Rajasthan"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0168",
+      "name": "Rhineland-Palatinate"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0297",
+      "name": "Rhode Island"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0190",
+      "name": "Romania"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0206",
+      "name": "Russia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0040",
+      "name": "Rwanda"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0169",
+      "name": "Saarland"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0041",
+      "name": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0252",
+      "name": "Saint Kitts & Nevis"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0253",
+      "name": "Saint Lucia"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0254",
+      "name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0330",
+      "name": "Samoa"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0207",
+      "name": "San Marino"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0042",
+      "name": "Sao Tome and Principe"
+    },
+    {
+      "parentId": "L0225",
+      "id": "L0235",
+      "name": "Saskatchewan"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0125",
+      "name": "Saudi Arabia"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0170",
+      "name": "Saxony"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0171",
+      "name": "Saxony-Anhalt"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0172",
+      "name": "Schleswig-Holstein"
+    },
+    {
+      "parentId": "L0212",
+      "id": "L0215",
+      "name": "Scotland"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0043",
+      "name": "Senegal"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0208",
+      "name": "Serbia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0044",
+      "name": "Seychelles"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0045",
+      "name": "Sierra Leone"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0097",
+      "name": "Sikkim"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0126",
+      "name": "Singapore"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0191",
+      "name": "Slovakia"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0192",
+      "name": "Slovenia"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0358",
+      "name": "Solomon Islands"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0046",
+      "name": "Somalia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0047",
+      "name": "South Africa"
+    },
+    {
+      "parentId": "L0001",
+      "id": "L0335",
+      "name": "South America"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0316",
+      "name": "South Australia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0298",
+      "name": "South Carolina"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0299",
+      "name": "South Dakota"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0346",
+      "name": "South Lorgia and the South Sandwich Islands"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0127",
+      "name": "South Korea"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0048",
+      "name": "South Sudan"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0193",
+      "name": "Spain"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0128",
+      "name": "Sri Lanka"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0049",
+      "name": "Sudan"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0347",
+      "name": "Suriname"
+    },
+    {
+      "parentId": "L0145",
+      "id": "L0194",
+      "name": "Sweden"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0209",
+      "name": "Switzerland"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0129",
+      "name": "Syria"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0130",
+      "name": "Taiwan"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0131",
+      "name": "Tajikistan"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0098",
+      "name": "Tamil Nadu"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0050",
+      "name": "Tanzania"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0317",
+      "name": "Tasmania"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0099",
+      "name": "Telangana"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0300",
+      "name": "Tennessee"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0301",
+      "name": "Texas"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0132",
+      "name": "Thailand"
+    },
+    {
+      "parentId": "L0156",
+      "id": "L0173",
+      "name": "Thuringia"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0133",
+      "name": "Timor-Leste"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0051",
+      "name": "Togo"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0332",
+      "name": "Tonga"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0255",
+      "name": "Trinidad & Tobago"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0100",
+      "name": "Tripura"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0052",
+      "name": "Tunisia"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0210",
+      "name": "Turkey"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0134",
+      "name": "Turkmenistan"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0356",
+      "name": "Turks & Caicos Islands"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0333",
+      "name": "Tuvalu"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0053",
+      "name": "Uganda"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0211",
+      "name": "Ukraine"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0135",
+      "name": "United Arab Emirates"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0212",
+      "name": "United Kingdom"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0257",
+      "name": "United States of America"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0348",
+      "name": "Uruguay"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0302",
+      "name": "Utah"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0101",
+      "name": "Uttar Pradesh"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0102",
+      "name": "Uttarakhand"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0136",
+      "name": "Uzbekistan"
+    },
+    {
+      "parentId": "L0310",
+      "id": "L0334",
+      "name": "Vanuatu"
+    },
+    {
+      "parentId": "L0139",
+      "id": "L0217",
+      "name": "Vatican City"
+    },
+    {
+      "parentId": "L0335",
+      "id": "L0349",
+      "name": "Venezuela"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0303",
+      "name": "Vermont"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0318",
+      "name": "Victoria"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0137",
+      "name": "Vietnam"
+    },
+    {
+      "parentId": "L0218",
+      "id": "L0357",
+      "name": "Virgin Islands"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0304",
+      "name": "Virginia"
+    },
+    {
+      "parentId": "L0212",
+      "id": "L0216",
+      "name": "Wales"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0305",
+      "name": "Washington"
+    },
+    {
+      "parentId": "L0067",
+      "id": "L0103",
+      "name": "West Bengal"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0306",
+      "name": "West Virginia"
+    },
+    {
+      "parentId": "L0311",
+      "id": "L0319",
+      "name": "Western Australia"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0307",
+      "name": "Wisconsin"
+    },
+    {
+      "parentId": "",
+      "id": "L0001",
+      "name": "World"
+    },
+    {
+      "parentId": "L0257",
+      "id": "L0308",
+      "name": "Wyoming"
+    },
+    {
+      "parentId": "L0056",
+      "id": "L0138",
+      "name": "Yemen"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0054",
+      "name": "Zambia"
+    },
+    {
+      "parentId": "L0002",
+      "id": "L0055",
+      "name": "Zimbabwe"
+    }
+  ]
+}
