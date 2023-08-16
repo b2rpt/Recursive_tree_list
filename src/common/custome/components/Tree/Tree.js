@@ -16,7 +16,7 @@ const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
         return {
           ...i,
           checked,
-          name: checked ? i.name.toUpperCase() : i.name.toLowerCase()
+          name: checked ? i.name.toUpperCase() : i.name.toLowerCase(),
         };
       });
     });
@@ -26,6 +26,7 @@ const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
     <>
       {item.map((m) => (
         <div
+          key={m.id}
           style={{ padding: "10px" }}
           onClick={(e) => handleParentClick(e, m)}
         >

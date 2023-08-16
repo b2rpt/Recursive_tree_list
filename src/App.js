@@ -1,6 +1,6 @@
 import "./styles.css";
-import data from "../assets/data.json";
-import Tree from "../Tree";
+import data from "./assets/data.json";
+import Tree from "./common/custome/components/Tree/Tree";
 
 export default function App() {
   const generateCheckboxTree = (data, id = "") => {
@@ -9,7 +9,7 @@ export default function App() {
       .map((item) => ({
         ...item,
         checked: false,
-        children: generateCheckboxTree(data, item ? item.id : null)
+        children: generateCheckboxTree(data, item ? item.id : null),
       }));
   };
   // console.log(generateCheckboxTree(data.geoData, ""));
