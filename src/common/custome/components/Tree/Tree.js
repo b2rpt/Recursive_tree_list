@@ -1,15 +1,23 @@
 import { useState } from "react";
+import Icon from "./Icon";
 
-const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
+const Tree = ({
+  treeData = [],
+  parendId,
+  level = 0,
+  onNodeClick,
+  currentItem,
+}) => {
   const [item, setItem] = useState(
     treeData.sort((a, b) => (a.name > b.name ? 1 : -1))
   );
 
-  // if (!item.length) return null;
+  const [isEditable, setIsEdiatble] = useState(false);
 
   const handleParentClick = (e, m) => {
     e.stopPropagation();
     onNodeClick(m);
+    setIsEdiatble(false);
     setItem((p) => {
       return p.map((i) => {
         const checked = i.id === m.id ? !i.checked : i.checked;
@@ -22,6 +30,11 @@ const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
     });
   };
 
+  const handleIconClick = (e) => {
+    e.stopPropagation();
+    setIsEdiatble((p) => !p);
+  };
+
   return (
     <>
       {item.map((m) => (
@@ -30,7 +43,7 @@ const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
           style={{ padding: "10px" }}
           onClick={(e) => handleParentClick(e, m)}
         >
-          {!m.checked ? (
+          {!(isEditable && m.checked) ? (
             m.name
           ) : (
             <input
@@ -44,9 +57,19 @@ const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
                 }
               }}
               onChange={(e) => {
-                setItem((p) => p.map((p) => ({ ...p, name: e.target.value })));
+                setItem((p) =>
+                  p.map((p) => ({
+                    ...p,
+                    name: m.id === p.id ? e.target.value : p.name,
+                  }))
+                );
               }}
             />
+          )}
+          {m.checked && m.id === currentItem?.id ? (
+            <Icon onIconClick={(e) => handleIconClick(e)} />
+          ) : (
+            ""
           )}
           {m.children.length > 0 && m.checked && (
             <Tree
@@ -54,6 +77,7 @@ const Tree = ({ treeData = [], parendId, level = 0, onNodeClick }) => {
               parendId={m.id}
               level={level + 1}
               onNodeClick={onNodeClick}
+              currentItem={currentItem}
             />
           )}
         </div>

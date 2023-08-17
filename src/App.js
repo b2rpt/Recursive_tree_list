@@ -1,8 +1,9 @@
 import "./styles.css";
 import data from "./assets/data.json";
 import Tree from "./common/custome/components/Tree/Tree";
-
+import { useState } from "react";
 export default function App() {
+  const [currentItem, setCurrentItem] = useState({});
   const generateCheckboxTree = (data, id = "") => {
     return data
       .filter((f) => f.parentId === id)
@@ -17,11 +18,17 @@ export default function App() {
 
   const handleNodeClick = (n) => {
     console.log("node", n);
+    setCurrentItem({ ...n, checked: !n.checked });
   };
 
   return (
     <>
-      <Tree treeData={data1} parendId="" onNodeClick={handleNodeClick} />
+      <Tree
+        treeData={data1}
+        parendId=""
+        onNodeClick={handleNodeClick}
+        currentItem={currentItem}
+      />
     </>
   );
 }
